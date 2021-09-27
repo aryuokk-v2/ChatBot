@@ -17,6 +17,8 @@ async def info(client, message):
                 url="https://t.me/its_Prince"),
             InlineKeyboardButton("Join",
                                  url="https://t.me/HaramiSquad"),
+            InlineKeyboardButton("Updates",
+                                 url="https://t.me/roBots_Hub"),
         ],
     ]
     await Nobita.send_message(
