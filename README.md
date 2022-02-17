@@ -10,4 +10,4 @@ The easiest way to deploy this Bot
  
 ### Credits
 • [Aryan](https://github.com/stark-Prince) - Owner\
-• [Chankit Saini](https://github.com/NeuroticCoders) - Source Code Owner
+• [Chankit Saini](https://github.com/ChankitSaini) - Source Code Owner
